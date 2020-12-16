@@ -1,0 +1,43 @@
+{
+  "name": "sota-token",
+  "version": "1.0.0",
+  "description": "Smart contract of sota token, a governance token of sota platform.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sota-platform/sota-token-contracts.git"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.2-solc-0.7",
+    "@openzeppelin/test-helpers": "^0.5.9",
+    "@truffle/hdwallet-provider": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.0"
+  },
+  "keywords": [
+    "Ethereum",
+    "Blockchain",
+    "ERC20",
+    "Solidity",
+    "Truffle",
+    "Web3",
+    "Tokenize",
+    "Decentralized",
+    "Finance",
+    "Defi",
+    "Governance",
+    "Token"
+  ],
+  "author": "SotaNext",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sota-platform/sota-token-contracts/issues"
+  },
+  "homepage": "https://github.com/sota-platform/sota-token-contracts#readme"
+}
