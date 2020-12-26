@@ -6,4 +6,4 @@
 - SOTA token price: 0.1 USDT
 - Accepted USDT, ETH (convert ETH to USDT with best rate via Uniswap)
 - From Dec 20 to Dec 31
-- Mainnet address: [0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5](https://etherscan.io/token/0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5)
+- Mainnet address: [0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5](https://etherscan.io/address/0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5)
