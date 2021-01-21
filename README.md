@@ -5,5 +5,14 @@
 ## SEED SALE - A token sale contract:
 - SOTA token price: 0.1 USDT
 - Accepted USDT, ETH (convert ETH to USDT with best rate via Uniswap)
+- MIN amount: 1000 USDT
+- MAX amount: 10000 USDT
 - From Dec 20 to Dec 31
 - Mainnet address: [0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5](https://etherscan.io/address/0x6c5DDde620E8A8be3DD9fc984c0E549ed60fcaE5)
+## PRESALE - A token sale contract:
+- SOTA token price: 0.1 USDT
+- Accepted USDT, ETH (convert ETH to USDT with best rate via Uniswap)
+- MIN amount: 200 USDT
+- MAX amount: 20000 USDT
+- Start sale on Jan 20, 2021
+- Mainnet address: [0x18178d87e6a6db2e97503570f4dddc893eded7b4](https://etherscan.io/address/0x18178d87e6a6db2e97503570f4dddc893eded7b4)
