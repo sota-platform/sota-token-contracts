@@ -51,7 +51,9 @@ contract HSotaToken is ERC20("SOTA", "SOTA"), ERC20Burnable, Ownable {
         FEE = _fee;
     }
 
-    function adminWithdrawFee(address _to) public onlyOwner {
-        _transfer(address(this), _to, feeCollected);
+    function adminWithdrawFee(address _to) public onlyOwner { 
+        uint256 currentFee = feeCollected;
+        feeCollected = 0;
+        _transfer(address(this), _to, currentFee);
     }
 }
